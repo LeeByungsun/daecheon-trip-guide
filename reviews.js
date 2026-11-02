@@ -19,4 +19,10 @@ const reviews = {
 '청해횟집': [['작성일 확인 필요','해물칼국수를 먹었고 조개구이·삼합 메뉴도 확인했다는 후기.','https://www.th-study.com/blogs/life/730/show']],
 '팔도강산': [['작성일 확인 필요','해물뚝배기에 해산물이 풍부했지만 재방문 의사는 확실하지 않다는 후기.','https://www.diningcode.com/profile.php?rid=6fNRwrZy4TCT']],
 '더드림육해공삼합': [['작성일 확인 필요','넓은 매장에서 육해공 삼합을 먹은 방문기.','https://www.diningcode.com/profile.php?rid=uNQW22bXOsHq']]
+,
+'조개까는남자': [['작성일 확인 필요','조개구이 구성과 바다 앞 위치를 언급하며 주말 대기를 예상한 후기.','https://www.diningcode.com/profile.php?rid=K16lSMuQNSzS']],
+'대천가자조개구이': [['작성일 확인 필요','가리비와 키조개가 포함된 조개구이를 먹고 푸짐했다고 전한 후기.','https://www.diningcode.com/profile.php?rid=pbSoi5vRPIj8']],
+'더드림한우곰탕': [['작성일 확인 필요','갈비탕과 넓은 매장, 아침 식사 이용을 언급한 후기.','https://www.diningcode.com/profile.php?rid=9m09UIE9wMeC']],
+'굽네치킨 대천해수욕장점': [['작성일 확인 필요','방문 당시 매장 식사가 불가능해 포장·배달로 이용했다는 후기.','https://www.diningcode.com/profile.php?rid=XvQ3ORtek30d']],
+'풍미꽃게장게국지 본점': [['작성일 확인 필요','조개구이를 먹은 다음 날 게국지를 아침 해장으로 먹은 후기.','https://www.diningcode.com/profile.php?rid=n4t4nrl9lAAZ']]
 };
